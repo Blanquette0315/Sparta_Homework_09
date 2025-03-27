@@ -20,6 +20,12 @@ UnrealEngine ListenServer를 이용해 만든 숫자 야구 게임입니다.
 
 번갈아 가며 기회가 주어지기 때문에 상대방의 시도 결과를 참고해 더 빠르게 정답을 맞추는 것이 중요합니다.
 
+**[플레이 영상]**
+-
+[![Watch the video](https://img.youtube.com/vi/YB-x8VBz6iA/0.jpg)](https://www.youtube.com/watch?v=YB-x8VBz6iA)
+
+[https://www.youtube.com/watch?v=YB-x8VBz6iA]
+
 **[주요 기능 구현]**
 -
 **1. 채팅 기능 구현**
@@ -78,9 +84,3 @@ UnrealEngine ListenServer를 이용해 만든 숫자 야구 게임입니다.
 - "잘못된 명령어 입니다."
 - "플레이어의 남은 횟수가 부족합니다."
 - "플레이어의 차례가 아닙니다."
-
-**플레이 영상**
--
-[![Watch the video](https://img.youtube.com/vi/YB-x8VBz6iA/0.jpg)](https://www.youtube.com/watch?v=YB-x8VBz6iA)
-
-[https://www.youtube.com/watch?v=YB-x8VBz6iA]
